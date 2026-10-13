@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://byte42.it">Website</a> ·
   <a href="https://www.fantastico.cc">Fantastico</a> ·
-  <a href="https://stablecoin.byte42.it">Stablecoin pilot</a>
+  <a href="https://saul-ai.it">Saul</a>
 </p>
 
 ## About Byte42
@@ -25,9 +25,9 @@ to turn emerging technologies into practical products and new business models.
 
 | Project | Focus |
 | :--- | :--- |
-| **Saul** | AI for law firms: case analysis, fact reconstruction and legal drafting. |
+| **[Saul](https://saul-ai.it)** | AI for law firms: case analysis, fact reconstruction and legal drafting. |
 | **[Fantastico](https://www.fantastico.cc)** | Infrastructure for AI-native SaaS, with model access, usage metering and cost management. |
-| **xDNA®** | DLT infrastructure connecting traditional payments, stablecoins and digital assets. |
+| **xDNA®** | DLT infrastructure connecting traditional payments and digital assets. |
 | **Griddy®** | Technology connecting physical and virtual payment cards with blockchain through EMV architecture. |
 
 ## Let's build together
